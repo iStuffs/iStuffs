@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, I'm iStuffs 👋
 
-<!--
-**iStuffs/iStuffs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer and a tech enthusiast. I love creating innovative solutions to complex problems and exploring new technologies.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- JavaScript
+- HTML/CSS
+- Vue.js
+- Nuxt
+
+## Contact
+
+- Email: [istuffs@gmail.com](mailto:istuffs@gmail.com)
+- LinkedIn: [linkedin.com/in/samuel-didier-laurent](https://www.linkedin.com/in/samuel-didier-laurent/)
+- Codepen: [codepen.io/istuffs](https://codepen.io/istuffs)
+
+Let's connect and build something great together! 😊
